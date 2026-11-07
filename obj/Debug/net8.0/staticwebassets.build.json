@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nd+XESkRUdowK3Ls7CyHrHBkMSboHpYor15J9fXVFdk=",
+  "Source": "FTELMarket.Api",
+  "BasePath": "_content/FTELMarket.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
