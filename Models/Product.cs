@@ -1,6 +1,9 @@
 
 
-public class Product
+using FTELMarket.Api.Models;
+namespace FTELMarket.Api.Models;
+
+public class Product : IEntity
 {
 
     public int Id { get; set; }

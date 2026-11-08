@@ -1,3 +1,7 @@
+using FTELMarket.Api.Models;
+
+namespace FTELMarket.Api.Extensions;
+
 public static class DtoExtension
 {
     public static Product ToProduct(this ProductCreationDto dto)
