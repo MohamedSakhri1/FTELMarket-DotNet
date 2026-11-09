@@ -12,7 +12,7 @@ public class Product : IEntity
     public double Price { get; set; }
     public int Stock { get; set; }
     public int CategoryId { get; set; }
-    public DateTime CreatedAt { get; set; } = DateTime.Now;
+    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
     public string? CategoryName { get; set; }
 
 }

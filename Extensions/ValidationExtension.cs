@@ -1,3 +1,9 @@
+
+
+using FTELMarket.Api.DTOs.Product;
+
+namespace FTELMarket.Api.Extensions;
+
 public static class ValidationExtension
 {
     public static bool IsValid(this ProductCreationDto dto)
